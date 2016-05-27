@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Inheritance.dir/main.cpp.o CMakeFiles/Inheritance.dir/core.cpp.o CMakeFiles/Inheritance.dir/extra.cpp.o  -o Inheritance -rdynamic 

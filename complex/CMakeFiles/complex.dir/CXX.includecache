@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yifan/Documents/cppTest/complex/complex.hpp
+
+/home/yifan/Documents/cppTest/complex/main.cpp
+complex.hpp
+/home/yifan/Documents/cppTest/complex/complex.hpp
+iostream
+-
+

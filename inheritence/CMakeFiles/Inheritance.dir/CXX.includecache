@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yifan/Documents/cppTest/inheritence/core.cpp
+iostream
+-
+core.hpp
+/home/yifan/Documents/cppTest/inheritence/core.hpp
+
+/home/yifan/Documents/cppTest/inheritence/core.hpp
+
+/home/yifan/Documents/cppTest/inheritence/extra.cpp
+extra.hpp
+/home/yifan/Documents/cppTest/inheritence/extra.hpp
+
+/home/yifan/Documents/cppTest/inheritence/extra.hpp
+core.hpp
+/home/yifan/Documents/cppTest/inheritence/core.hpp
+
+/home/yifan/Documents/cppTest/inheritence/main.cpp
+iostream
+-
+extra.hpp
+/home/yifan/Documents/cppTest/inheritence/extra.hpp
+
